@@ -4,6 +4,7 @@
 ## 下载代码
 git clone 项目地址
 ### 安装依赖
+cd 项目目录 -- 进入项目目录进行安装
 npm install/cnpm install
 #### 运行项目
 npm run dev
